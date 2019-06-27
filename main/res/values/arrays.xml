@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="regions">
+
+        <item>NAIROBI</item>
+        <item>COAST</item>
+        <item>CENTRAL</item>
+        <item>WESTERN</item>
+        <item>NYANZA</item>
+        <item>EASTERN</item>
+        <item>RIFT VALLEY</item>
+
+    </string-array>
+
+</resources>
